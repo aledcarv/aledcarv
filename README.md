@@ -1,7 +1,7 @@
 ![Hello World](https://github.com/aledcarv/aledcarv/blob/master/hello-world.png)
 <div>
 <h1 align="center">
- I like jazz, writing code and pizza
+ I like jazz, web development and pizza
 </h1>
 
 <p align="center">
