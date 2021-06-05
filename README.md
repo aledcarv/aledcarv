@@ -1,9 +1,3 @@
-![Hello World](https://github.com/aledcarv/aledcarv/blob/master/hello-world.png)
-<div>
-<h1 align="center">
- I like jazz, web development and pizza
-</h1>
-
 <p align="center">
  <a href="https://www.linkedin.com/in/alecarv/" target="_blank">
   <img width="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg">
